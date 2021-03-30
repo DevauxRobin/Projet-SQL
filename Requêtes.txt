@@ -126,28 +126,3 @@ FROM title_basics;
 ### Quels sont les noms des épisodes de Game of Thrones ?
 SELECT originalTitle
 FROM title_basics;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
